@@ -10,7 +10,7 @@
 int main(int argc, char **argv)
 {
 	int fd;
-	int val = 1;
+	int val = 7;
 	fd = open("/dev/led_drv_dev", O_RDWR);
 	if (fd < 0)
 	{
