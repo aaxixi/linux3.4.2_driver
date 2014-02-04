@@ -1,0 +1,1 @@
+cmd_/home/cx/work/source/drivers/my_dev/2.6.30_drv/key_drv/key_drv.ko := arm-linux-ld -EL -r   --build-id -o /home/cx/work/source/drivers/my_dev/2.6.30_drv/key_drv/key_drv.ko /home/cx/work/source/drivers/my_dev/2.6.30_drv/key_drv/key_drv.o /home/cx/work/source/drivers/my_dev/2.6.30_drv/key_drv/key_drv.mod.o
