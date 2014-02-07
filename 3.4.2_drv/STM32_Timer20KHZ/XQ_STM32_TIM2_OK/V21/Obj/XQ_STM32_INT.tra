@@ -1,0 +1,32 @@
+*** Creating Trace Output File '.\Obj\XQ_STM32_INT.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_cec.o"'
+### List of Objects: adding '".\obj\stm32f10x_crc.o"'
+### List of Objects: adding '".\obj\stm32f10x_exti.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_rtc.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### ADS-LD Command completed:
+--device DARMSTM ".\obj\core_cm3.o" ".\obj\startup_stm32f10x_hd.o" ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\system_stm32f10x.o" ".\obj\misc.o" ".\obj\stm32f10x_cec.o" ".\obj\stm32f10x_crc.o" ".\obj\stm32f10x_exti.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_rtc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" --strict --scatter ".\Obj\XQ_STM32_INT.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\XQ_STM32_INT.map" -o ".\Obj\XQ_STM32_INT.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\XQ_STM32_INT.axf'
+### ADS-LD Command File: '.\Obj\XQ_STM32_INT.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\XQ_STM32_INT.lnp', Handle=0x00001CBC
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\XQ_STM32_INT.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
